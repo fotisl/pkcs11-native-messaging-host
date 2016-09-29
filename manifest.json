@@ -1,0 +1,9 @@
+{
+  "name": "com.fotisl.doc_sign",
+  "description": "Sign application",
+  "path": "/usr/local/bin/docsignapp.py",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://PLACE_EXTENSION_HERE/"
+  ]
+}
